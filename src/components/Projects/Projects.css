@@ -5,6 +5,7 @@
     justify-content: center;
     flex-direction: column;
     gap:30px;
+    overflow: hidden;
 }
 .slider{
     width: 90%;
