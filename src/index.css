@@ -4,7 +4,13 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Outfit", sans-serif;
+    scrollbar-width: none;         
+  -ms-overflow-style: none;  
 }
 body{
     background-color:rgb(17,20,23);
+}
+
+*::-webkit-scrollbar {
+  display: none;                
 }
